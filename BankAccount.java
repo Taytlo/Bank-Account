@@ -3,7 +3,7 @@
     
     private double balance;
     private boolean loggedIn;
-    private String accountName;//
+    private String accountName;
     private String accountNumber;
     private String accountType;
     
